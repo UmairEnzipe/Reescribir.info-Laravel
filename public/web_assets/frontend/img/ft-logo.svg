@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210.194" height="61.352" viewBox="0 0 210.194 61.352">
+  <g id="Group_10016" data-name="Group 10016" transform="translate(-225 -3906)">
+    <g id="Group_10015" data-name="Group 10015">
+      <g id="Group_10014" data-name="Group 10014">
+        <g id="Group_9964" data-name="Group 9964" transform="translate(-94 -0.648)">
+          <path id="Polygon_8" data-name="Polygon 8" d="M34.385,0a4,4,0,0,1,3.468,2.008l9.936,17.3a4,4,0,0,1,0,3.985l-9.936,17.3a4,4,0,0,1-3.468,2.007H14.549a4,4,0,0,1-3.468-2.008l-9.936-17.3a4,4,0,0,1,0-3.985l9.936-17.3A4,4,0,0,1,14.549,0Z" transform="translate(340.295 3906.648) rotate(30)" fill="#fb5537"/>
+          <text id="Reescribir" transform="translate(381.194 3947.217)" fill="#fff" font-size="32" font-family="SourceSerifPro-Regular, Source Serif Pro"><tspan x="0" y="0">Reescribir</tspan></text>
+          <g id="Group_9963" data-name="Group 9963" transform="translate(340.416 3924.185)">
+            <path id="Rectangle_10" data-name="Rectangle 10" d="M5,0H15.405a0,0,0,0,1,0,0V15.405a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(0 10.874)" fill="#fff"/>
+            <path id="Union_1" data-name="Union 1" d="M0,19.03V0H10.4a5,5,0,0,1,5,5v5.086a5,5,0,0,1-5,5H4.99V19.03Z" transform="translate(5.437 0)"/>
+            <rect id="Rectangle_12" data-name="Rectangle 12" width="4.993" height="19.03" transform="translate(10.412 7.249)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
